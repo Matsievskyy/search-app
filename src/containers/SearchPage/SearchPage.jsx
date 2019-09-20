@@ -7,7 +7,6 @@ import classes from './SearchPage.module.css';
 
 class SearchPage extends Component {
     state = {
-        posts: [],
         inputValue: '',
         searchValue: ''
     };
